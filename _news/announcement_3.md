@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-03-28 08:00:00-0700
+date: 2023-03-16 14:50:00+0800
 inline: true
 related_posts: false
 ---
 
-Officially joined [TASL](https://tasl.ucr.edu/) as a PhD student!
+[One paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200339) is featured in the Editor's Choice collection of Advanced Intelligent Systems!
