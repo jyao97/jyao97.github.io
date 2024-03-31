@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Officially joined TASL as a PhD student!
+Officially joined [TASL](https://tasl.ucr.edu/) as a PhD student!
