@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[One paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200339) is featured in the Editor's Choice collection of Advanced Intelligent Systems!
+[One paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200339) is featured in the Editors' Choice collection of Advanced Intelligent Systems!
