@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-03-28 08:00:00-0700
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Officially joined TASL as a PhD student!
