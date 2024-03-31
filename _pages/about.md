@@ -15,8 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello 👋, I'm Jianpeng Yao, a first-year Ph.D. student at <a href='https://tasl.ucr.edu/'>TASL</a>, advised by <a href='https://jiachenli94.github.io/'>Prof. Jiachen Li</a>. My research interests lie in robotics and machine learning, with a focus on developing trustworthy algorithms for real-world robotic applications. Before joining UCR, I earned my Bachelor's and Master's degrees in Electrical Engineering from Huazhong University of Science and Technology. From 2019 to 2022, I conducted research on introducing reinforcement learning to magnetic soft robots.
