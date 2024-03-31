@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[One paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200339) is accepted by _Advanced Intelligent Systems_!
+[One paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200339) is accepted by _Advanced Intelligent Systems_ !
