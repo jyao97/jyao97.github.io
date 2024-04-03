@@ -6,7 +6,7 @@ subtitle: Ph.D. Student at <a href="https://tasl.ucr.edu/">TASL</a>, UC Riversid
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: ""
 
