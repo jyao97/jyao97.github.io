@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Jianpeng Yao # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Jianpeng
 middle_name: ""
 last_name: Yao
