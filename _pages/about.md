@@ -31,6 +31,7 @@ Jianpeng Yao is currently a first-year Ph.D. student advised by Prof. Jiachen Li
     width: 80px; /* 设置图片宽度 */
     height: auto; /* 自动调整高度以保持比例 */
     margin-right: 30px; /* 增加Logo与内容之间的间距 */
+    margin-left: 15px;
   }
 
   .card-content {
