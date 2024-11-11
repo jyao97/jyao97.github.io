@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant of EE260E, Trustworthy AI "
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-winter-teaching-ee260
