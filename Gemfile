@@ -5,6 +5,7 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
   gem 'jemoji'
+  gem 'faraday-retry'
   gem 'webrick', '~> 1.8'
 end
 
