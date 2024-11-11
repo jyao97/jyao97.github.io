@@ -76,7 +76,7 @@ Jianpeng Yao is currently a first-year Ph.D. student advised by Prof. Jiachen Li
     <div class="card-content">
       <p><strong>Research Intern (Remote)</strong></p>
       <p><strong>King Abdullah University of Science and Technology</strong></p>
-      <p><strong>Topics:</strong> Robotic Manipulation</p>
+      <p><strong>Topics:</strong> Robotic Manipulation, Graph Neural Networks</p>
       <p><strong>Advisor:</strong> Prof. Shinkyu Park</p>
     </div>
     <div class="card-date">2023.06-2023.09</div>
@@ -98,7 +98,7 @@ Jianpeng Yao is currently a first-year Ph.D. student advised by Prof. Jiachen Li
       <p><strong>Graduate Research Assistant</strong></p>
       <p><strong>Huazhong University of Science and Technology</strong></p>
       <p><strong>Topics:</strong> Reinforcement Learning, Learning-based Control, Magnetic Soft Robots, Numerical Analysis</p>
-      <p><strong>Advisor:</strong> Prof. Xiaotao Han and Prof. Quanliang Cao</p>
+      <p><strong>Advisors:</strong> Prof. Xiaotao Han and Prof. Quanliang Cao</p>
     </div>
     <div class="card-date">2019.09-2022.06</div>
   </div>
