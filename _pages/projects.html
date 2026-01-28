@@ -48,51 +48,6 @@ author_profile: true
       text-align: justify;
     }
 
-    .visual-portfolio-container {
-      column-count: 2;
-      column-gap: 20px;
-      max-width: 850px;
-      margin: 20px auto;
-      padding: 0 !important;
-    }
-
-    .portfolio-card {
-      display: inline-block;
-      width: 100%;
-      max-width: 500px;
-      margin: 0 0 20px;
-      padding: 10px;
-      border: 2px solid #ddd;
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      text-align: center;
-      break-inside: avoid;
-    }
-
-    .portfolio-image {
-      width: 100%;
-      height: auto;
-      object-fit: contain;
-      border-radius: 4px;
-      margin-top: 10px;
-      margin-bottom: 14px;
-    }
-
-    .portfolio-text {
-      font-size: 1em;
-      color: #333;
-      word-wrap: break-word;
-    }
-
-    .portfolio-text a {
-      color: #007bff;
-      text-decoration: none;
-    }
-
-    .portfolio-text a:hover {
-      text-decoration: underline;
-    }
   </style>
 </head>
 <body>
@@ -110,28 +65,6 @@ author_profile: true
           {% if project.description %}
             <div class="project-description">{{ project.description }}</div>
           {% endif %}
-        </div>
-      {% endif %}
-    {% endfor %}
-  </div>
-
-  <strong><div class="page-title">Visual Portfolio</div></strong>
-  <p style="text-align: center; font-size: 1.0em;">
-    I am also interested in designing visual works like logos or 3D rendering-based images.
-  </p>
-
-  <div class="visual-portfolio-container">
-    {% for project in site.projects %}
-      {% if project.category == "visual" %}
-        <div class="portfolio-card">
-          <img src="{{ project.image }}" alt="Project Image" class="portfolio-image">
-          <div class="portfolio-text">
-            {% if project.hyperlink %}
-              <strong><a href="{{ project.hyperlink }}">{{ project.title }}</a></strong>
-            {% else %}
-              <strong>{{ project.title }}</strong>
-            {% endif %}
-          </div>
         </div>
       {% endif %}
     {% endfor %}
