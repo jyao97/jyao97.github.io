@@ -37,24 +37,14 @@ Jianpeng Yao is currently a second-year Ph.D. student advised by Prof. Hang Qiu 
     flex-shrink: 0;
   }
 
-  .news-pinned {
-    background: #fff8e1;
-    border-radius: 6px;
-    padding: 8px 12px !important;
-    border: 1px solid #ffe082;
-    border-bottom: 1px solid #ffe082 !important;
-    margin-bottom: 4px;
+  .news-pinned .news-date {
+    color: #555;
+    font-weight: 600;
   }
 
-  .news-pin-badge {
-    background: #ffb300;
-    color: #fff;
-    font-size: 0.75em;
-    font-weight: 600;
-    padding: 1px 7px;
-    border-radius: 4px;
-    margin-right: 8px;
-    flex-shrink: 0;
+  .news-pin-icon {
+    font-size: 0.85em;
+    margin-right: 2px;
   }
 </style>
 
@@ -62,7 +52,7 @@ Jianpeng Yao is currently a second-year Ph.D. student advised by Prof. Hang Qiu 
   {% for item in site.data.news %}
     {% if item.pinned %}
   <li class="news-pinned">
-    <span class="news-pin-badge">Pinned</span>
+    <span class="news-date"><span class="news-pin-icon">&#128204;</span>{{ item.date }}</span>
     <span>{{ item.text }}</span>
   </li>
     {% endif %}
