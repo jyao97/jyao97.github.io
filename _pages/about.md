@@ -9,6 +9,74 @@ redirect_from:
 
 Jianpeng Yao is currently a second-year Ph.D. student advised by Prof. Hang Qiu at the University of California, Riverside. Before that, he received his B.S. and M.S. degrees in Electrical Engineering from Huazhong University of Science and Technology in 2019 and 2022, respectively. He worked as an algorithm engineer in the autonomous driving industry in 2023, where he focused on learning-based trajectory prediction and planning. His research interests include 3D reconstruction, reinforcement learning, robotics, and autonomous driving.
 
+## News
+
+<style>
+  .news-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 12px;
+  }
+
+  .news-list li {
+    display: flex;
+    align-items: baseline;
+    padding: 6px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 0.95em;
+  }
+
+  .news-list li:last-child {
+    border-bottom: none;
+  }
+
+  .news-date {
+    min-width: 90px;
+    color: #888;
+    font-size: 0.88em;
+    flex-shrink: 0;
+  }
+
+  .news-pinned {
+    background: #fff8e1;
+    border-radius: 6px;
+    padding: 8px 12px !important;
+    border: 1px solid #ffe082;
+    border-bottom: 1px solid #ffe082 !important;
+    margin-bottom: 4px;
+  }
+
+  .news-pin-badge {
+    background: #ffb300;
+    color: #fff;
+    font-size: 0.75em;
+    font-weight: 600;
+    padding: 1px 7px;
+    border-radius: 4px;
+    margin-right: 8px;
+    flex-shrink: 0;
+  }
+</style>
+
+<ul class="news-list">
+  <li class="news-pinned">
+    <span class="news-pin-badge">Pinned</span>
+    <span>Launched <a href="https://github.com/jyao97/claude-code-webui">Claude Code WebUI</a> — an open-source web interface for Claude Code.</span>
+  </li>
+  <li>
+    <span class="news-date">2025.06</span>
+    <span>Our paper <em>"Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling"</em> is accepted at <strong>CoRL 2025</strong>.</span>
+  </li>
+  <li>
+    <span class="news-date">2023.01</span>
+    <span>Our paper <em>"Adaptive Actuation of Magnetic Soft Robots Using Deep Reinforcement Learning"</em> is accepted at <strong>Advanced Intelligent Systems</strong>. Selected as Editors' Choice.</span>
+  </li>
+  <li>
+    <span class="news-date">2021.09</span>
+    <span>Our paper <em>"Reconfigurable Magnetic Soft Robots with Multimodal Locomotion"</em> is accepted at <strong>Nano Energy</strong>.</span>
+  </li>
+</ul>
+
 ## Experiences
 <style>
   .experience-cards {
