@@ -2,6 +2,9 @@
   text: 'I developed an open-source task management + WebUI for Claude Code <a href="https://github.com/jyao97/agenthive">here</a>. &#127881;'
   pinned: true
 
+- date: "2026.01"
+  text: 'One paper is accepted by ICRA 2026.'
+
 - date: "2025.06"
   text: '<a href="https://gen-safe-nav.github.io/">One paper</a> is accepted by CoRL 2025.'
 
