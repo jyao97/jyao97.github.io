@@ -59,22 +59,22 @@ Jianpeng Yao is currently a second-year Ph.D. student advised by Prof. Hang Qiu 
 </style>
 
 <ul class="news-list">
+  {% for item in site.data.news %}
+    {% if item.pinned %}
   <li class="news-pinned">
     <span class="news-pin-badge">Pinned</span>
-    <span>Launched <a href="https://github.com/jyao97/agenthive">Claude Code WebUI</a> — an open-source web interface for Claude Code.</span>
+    <span>{{ item.text }}</span>
   </li>
+    {% endif %}
+  {% endfor %}
+  {% for item in site.data.news %}
+    {% unless item.pinned %}
   <li>
-    <span class="news-date">2025.06</span>
-    <span><a href="https://gen-safe-nav.github.io/">One paper</a> is accepted by <strong>CoRL 2025</strong>.</span>
+    <span class="news-date">{{ item.date }}</span>
+    <span>{{ item.text }}</span>
   </li>
-  <li>
-    <span class="news-date">2023.01</span>
-    <span><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200339">One paper</a> is accepted by <strong>Advanced Intelligent Systems</strong>. Selected as Editors' Choice.</span>
-  </li>
-  <li>
-    <span class="news-date">2021.09</span>
-    <span><a href="https://www.sciencedirect.com/science/article/pii/S2211285521004250">One paper</a> is accepted by <strong>Nano Energy</strong>.</span>
-  </li>
+    {% endunless %}
+  {% endfor %}
 </ul>
 
 ## Experiences
