@@ -65,15 +65,15 @@ Jianpeng Yao is currently a second-year Ph.D. student advised by Prof. Hang Qiu 
   </li>
   <li>
     <span class="news-date">2025.06</span>
-    <span>One paper is accepted by <strong>CoRL 2025</strong>.</span>
+    <span><a href="https://gen-safe-nav.github.io/">One paper</a> is accepted by <strong>CoRL 2025</strong>.</span>
   </li>
   <li>
     <span class="news-date">2023.01</span>
-    <span>One paper is accepted by <strong>Advanced Intelligent Systems</strong>. Selected as Editors' Choice.</span>
+    <span><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200339">One paper</a> is accepted by <strong>Advanced Intelligent Systems</strong>. Selected as Editors' Choice.</span>
   </li>
   <li>
     <span class="news-date">2021.09</span>
-    <span>One paper is accepted by <strong>Nano Energy</strong>.</span>
+    <span><a href="https://www.sciencedirect.com/science/article/pii/S2211285521004250">One paper</a> is accepted by <strong>Nano Energy</strong>.</span>
   </li>
 </ul>
 
