@@ -61,7 +61,7 @@ Jianpeng Yao is currently a second-year Ph.D. student advised by Prof. Hang Qiu 
 <ul class="news-list">
   <li class="news-pinned">
     <span class="news-pin-badge">Pinned</span>
-    <span>Launched <a href="https://github.com/jyao97/claude-code-webui">Claude Code WebUI</a> — an open-source web interface for Claude Code.</span>
+    <span>Launched <a href="https://github.com/jyao97/agenthive">Claude Code WebUI</a> — an open-source web interface for Claude Code.</span>
   </li>
   <li>
     <span class="news-date">2025.06</span>
