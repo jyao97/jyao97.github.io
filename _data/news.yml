@@ -1,12 +1,12 @@
 - date: "2025.04"
-  text: 'Released <strong>AgentHive</strong>, an open-source task management + WebUI for Claude Code. <a href="https://github.com/jyao97/agenthive">[GitHub]</a>'
+  text: 'Released AgentHive, an open-source task management + WebUI for Claude Code. <a href="https://github.com/jyao97/agenthive">[GitHub]</a>'
   pinned: true
 
 - date: "2025.06"
-  text: '<a href="https://gen-safe-nav.github.io/">One paper</a> is accepted by <strong>CoRL 2025</strong>.'
+  text: '<a href="https://gen-safe-nav.github.io/">One paper</a> is accepted by CoRL 2025.'
 
 - date: "2023.01"
-  text: '<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200339">One paper</a> is accepted by <strong>Advanced Intelligent Systems</strong>. Selected as Editors'' Choice.'
+  text: '<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200339">One paper</a> is accepted by Advanced Intelligent Systems.'
 
 - date: "2021.09"
-  text: '<a href="https://www.sciencedirect.com/science/article/pii/S2211285521004250">One paper</a> is accepted by <strong>Nano Energy</strong>.'
+  text: '<a href="https://www.sciencedirect.com/science/article/pii/S2211285521004250">One paper</a> is accepted by Nano Energy.'
