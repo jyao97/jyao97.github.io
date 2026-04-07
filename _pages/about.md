@@ -11,60 +11,17 @@ Jianpeng Yao is currently a second-year Ph.D. student advised by Prof. Hang Qiu 
 
 ## News
 
-<style>
-  .news-list {
-    list-style: none;
-    padding: 0;
-    margin-top: 12px;
-  }
-
-  .news-list li {
-    display: flex;
-    align-items: baseline;
-    padding: 6px 0;
-    border-bottom: 1px solid #eee;
-    font-size: 0.95em;
-  }
-
-  .news-list li:last-child {
-    border-bottom: none;
-  }
-
-  .news-date {
-    min-width: 90px;
-    color: #888;
-    font-size: 0.88em;
-    flex-shrink: 0;
-  }
-
-  .news-pinned .news-date {
-    color: #555;
-    font-weight: 600;
-  }
-
-  .news-pin-icon {
-    font-size: 0.85em;
-    margin-right: 2px;
-  }
-</style>
-
-<ul class="news-list">
-  {% for item in site.data.news %}
-    {% if item.pinned %}
-  <li class="news-pinned">
-    <span class="news-date"><span class="news-pin-icon">&#128204;</span>{{ item.date }}</span>
-    <span>{{ item.text }}</span>
-  </li>
-    {% endif %}
-  {% endfor %}
-  {% for item in site.data.news %}
-    {% unless item.pinned %}
-  <li>
-    <span class="news-date">{{ item.date }}</span>
-    <span>{{ item.text }}</span>
-  </li>
-    {% endunless %}
-  {% endfor %}
+<ul>
+{% for item in site.data.news %}
+  {% if item.pinned %}
+  <li>&#128204; <strong>{{ item.date }}:</strong> {{ item.text }}</li>
+  {% endif %}
+{% endfor %}
+{% for item in site.data.news %}
+  {% unless item.pinned %}
+  <li><strong>{{ item.date }}:</strong> {{ item.text }}</li>
+  {% endunless %}
+{% endfor %}
 </ul>
 
 ## Experiences
