@@ -3,7 +3,7 @@
   pinned: true
 
 - date: "2026.01"
-  text: 'One paper is accepted by ICRA 2026.'
+  text: '<a href="https://comm-cp.github.io/">One paper</a> is accepted by ICRA 2026.'
 
 - date: "2025.06"
   text: '<a href="https://gen-safe-nav.github.io/">One paper</a> is accepted by CoRL 2025.'
