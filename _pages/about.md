@@ -65,15 +65,15 @@ Jianpeng Yao is currently a second-year Ph.D. student advised by Prof. Hang Qiu 
   </li>
   <li>
     <span class="news-date">2025.06</span>
-    <span>Our paper <em>"Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling"</em> is accepted at <strong>CoRL 2025</strong>.</span>
+    <span>One paper is accepted by <strong>CoRL 2025</strong>.</span>
   </li>
   <li>
     <span class="news-date">2023.01</span>
-    <span>Our paper <em>"Adaptive Actuation of Magnetic Soft Robots Using Deep Reinforcement Learning"</em> is accepted at <strong>Advanced Intelligent Systems</strong>. Selected as Editors' Choice.</span>
+    <span>One paper is accepted by <strong>Advanced Intelligent Systems</strong>. Selected as Editors' Choice.</span>
   </li>
   <li>
     <span class="news-date">2021.09</span>
-    <span>Our paper <em>"Reconfigurable Magnetic Soft Robots with Multimodal Locomotion"</em> is accepted at <strong>Nano Energy</strong>.</span>
+    <span>One paper is accepted by <strong>Nano Energy</strong>.</span>
   </li>
 </ul>
 
