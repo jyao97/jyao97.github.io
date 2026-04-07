@@ -11,10 +11,10 @@ Jianpeng Yao is currently a second-year Ph.D. student advised by Prof. Hang Qiu 
 
 ## News
 
-<ul style="list-style: none; padding-left: 0;">
+<ul>
 {% for item in site.data.news %}
   {% if item.pinned %}
-  <li>&#128204; {{ item.date }}: {{ item.text }}</li>
+  <li style="list-style-type: '📌  ';">{{ item.date }}: {{ item.text }}</li>
   {% endif %}
 {% endfor %}
 {% for item in site.data.news %}
