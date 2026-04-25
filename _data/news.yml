@@ -1,5 +1,5 @@
 - date: "2026.04"
-  text: 'I developed an open-source task management + WebUI for Claude Code <a href="https://github.com/jyao97/agenthive">here</a>.'
+  text: 'I released <a href="https://github.com/jyao97/xylocopa">Xylocopa</a>, an open-source Claude Code orchestrator that helps you stay focused while navigating many projects in parallel.'
   pinned: true
 
 - date: "2026.01"
