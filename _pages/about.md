@@ -76,15 +76,6 @@ Jianpeng Yao is currently a second-year Ph.D. student advised by Prof. Hang Qiu 
 
 <div class="experience-cards">
   <div class="card">
-    <img src="/images/logos/google_logo.png" alt="Logo" class="card-logo">
-    <div class="card-content">
-      <p><strong>Student Researcher</strong></p>
-      <p><strong>Google LLC</strong></p>
-    </div>
-    <div class="card-date">2026.06-2026.09</div>
-  </div>
-
-  <div class="card">
     <img src="/images/logos/ucr_logo.svg" alt="Logo" class="card-logo">
     <div class="card-content">
       <p><strong>Graduate Research Assistant</strong></p>
