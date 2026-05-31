@@ -2,8 +2,8 @@
   text: 'I developed <a href="https://github.com/jyao97/xylocopa">Xylocopa</a>, an attempt to combine the to-do list workflow with agent IDEs.'
   pinned: true
 
-- date: "2026.05"
-  text: 'I will join Google as a Student Researcher this summer!'
+# - date: "2026.05"
+#   text: 'I will join Google as a Student Researcher this summer!'
 
 - date: "2026.01"
   text: '<a href="https://comm-cp.github.io/">One paper</a> is accepted by ICRA 2026.'
