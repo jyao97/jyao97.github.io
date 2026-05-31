@@ -79,8 +79,7 @@ Jianpeng Yao is currently a second-year Ph.D. student advised by Prof. Hang Qiu 
     <img src="/images/logos/google_logo.png" alt="Logo" class="card-logo">
     <div class="card-content">
       <p><strong>Student Researcher</strong></p>
-      <p><strong>Google</strong></p>
-      <p><strong>Advisor:</strong> Dr. Adam Zu</p>
+      <p><strong>Google LLC</strong></p>
     </div>
     <div class="card-date">2026.06-2026.09</div>
   </div>
