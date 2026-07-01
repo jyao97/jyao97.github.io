@@ -114,6 +114,7 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
       <p><strong>Algorithm Engineer</strong></p>
       <p><strong>Cowarobot Co., Ltd.</strong></p>
       <p>Department: Planning and Control</p>
+      <p>Manager: Runxi Zhang</p>
     </div>
     <div class="card-date">2022.06-2023.06</div>
   </div>
