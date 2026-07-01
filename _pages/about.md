@@ -80,8 +80,8 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
     <div class="card-content">
       <p><strong>Graduate Research Assistant</strong></p>
       <p><strong>University of California, Riverside</strong></p>
-      <p><strong>Topics:</strong> 3D Reconstruction, Reinforcement Learning, Robotics</p>
-      <p><strong>Advisor:</strong> <a href="https://hangqiu.github.io/">Prof. Hang Qiu</a></p>
+      <p>Topics: 3D Reconstruction, Reinforcement Learning, Robotics</p>
+      <p>Advisor: <a href="https://hangqiu.github.io/">Prof. Hang Qiu</a></p>
     </div>
     <div class="card-date">2024.03-Present</div>
   </div>
@@ -91,8 +91,8 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
     <div class="card-content">
       <p><strong>Student Researcher</strong></p>
       <p><strong>Google LLC</strong></p>
-      <p><strong>Department:</strong> Android XR</p>
-      <p><strong>Mentor:</strong> Dr. Adam Zu</p>
+      <p>Department: Android XR</p>
+      <p>Mentor: Dr. Adam Zu</p>
     </div>
     <div class="card-date">2026.06-2026.09</div>
   </div>
@@ -102,8 +102,8 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
     <div class="card-content">
       <p><strong>Research Intern (Remote)</strong></p>
       <p><strong>King Abdullah University of Science and Technology</strong></p>
-      <p><strong>Topics:</strong> Robotic Manipulation, Graph Neural Networks</p>
-      <p><strong>Advisor:</strong> Prof. Shinkyu Park</p>
+      <p>Topics: Robotic Manipulation, Graph Neural Networks</p>
+      <p>Advisor: Prof. Shinkyu Park</p>
     </div>
     <div class="card-date">2023.06-2023.09</div>
   </div>
@@ -113,7 +113,7 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
     <div class="card-content">
       <p><strong>Algorithm Engineer</strong></p>
       <p><strong>Cowarobot Co., Ltd.</strong></p>
-      <p><strong>Department:</strong> Planning and Control</p>
+      <p>Department: Planning and Control</p>
     </div>
     <div class="card-date">2022.06-2023.06</div>
   </div>
@@ -123,8 +123,8 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
     <div class="card-content">
       <p><strong>Graduate Research Assistant</strong></p>
       <p><strong>Huazhong University of Science and Technology</strong></p>
-      <p><strong>Topics:</strong> Reinforcement Learning, Learning-based Control, Magnetic Soft Robots, Numerical Analysis</p>
-      <p><strong>Advisors:</strong> Prof. Xiaotao Han and Prof. Quanliang Cao</p>
+      <p>Topics: Reinforcement Learning, Learning-based Control, Magnetic Soft Robots, Numerical Analysis</p>
+      <p>Advisors: Prof. Xiaotao Han and Prof. Quanliang Cao</p>
     </div>
     <div class="card-date">2019.09-2022.06</div>
   </div>
