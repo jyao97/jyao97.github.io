@@ -87,6 +87,17 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   </div>
 
   <div class="card">
+    <img src="/images/logos/google_logo.png" alt="Logo" class="card-logo">
+    <div class="card-content">
+      <p><strong>Student Researcher</strong></p>
+      <p><strong>Google LLC</strong></p>
+      <p><strong>Department:</strong> Android XR</p>
+      <p><strong>Mentor:</strong> Dr. Adam Zu</p>
+    </div>
+    <div class="card-date">2026.06-2026.09</div>
+  </div>
+
+  <div class="card">
     <img src="/images/logos/kaust_logo.png" alt="Logo" class="card-logo">
     <div class="card-content">
       <p><strong>Research Intern (Remote)</strong></p>
@@ -102,7 +113,7 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
     <div class="card-content">
       <p><strong>Algorithm Engineer</strong></p>
       <p><strong>Cowarobot Co., Ltd.</strong></p>
-      <p><strong>Topics:</strong> Learning-based Trajectory Planning, Trajectory Prediction, Autonomous Driving, Data Processing</p>
+      <p><strong>Department:</strong> Planning and Control</p>
     </div>
     <div class="card-date">2022.06-2023.06</div>
   </div>
