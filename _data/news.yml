@@ -1,5 +1,5 @@
 - date: "2026.04"
-  text: 'I developed <a href="https://github.com/jyao97/xylocopa">Xylocopa</a>, an attempt to combine the to-do list workflow with agent IDEs.'
+  text: 'I developed <a href="https://github.com/jyao97/xylocopa">Xylocopa</a>, a visual orchestrator for coding agents.'
   pinned: true
 
 - date: "2026.06"
