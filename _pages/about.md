@@ -36,6 +36,7 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   .card {
     display: flex;
     align-items: center;
+    min-height: 128px; /* 卡片统一高度 */
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 16px;
@@ -43,8 +44,9 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   }
 
   .card-logo {
-    width: 80px; /* 设置图片宽度 */
-    height: auto; /* 自动调整高度以保持比例 */
+    width: 112px; /* 设置图片宽度 */
+    height: 94px; /* 固定盒子高度，避免高比例logo撑高卡片 */
+    object-fit: contain; /* 在盒子内保持原比例缩放 */
     margin-right: 30px; /* 增加Logo与内容之间的间距 */
     margin-left: 15px;
   }
