@@ -76,7 +76,7 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
 
 <div class="experience-cards">
   <div class="card">
-    <img src="/images/logos/ucr_logo.svg" alt="Logo" class="card-logo">
+    <img src="{{ '/images/logos/ucr_logo.svg' | relative_url }}" alt="Logo" class="card-logo">
     <div class="card-content">
       <p><strong>University of California, Riverside</strong></p>
       <p>Graduate Research Assistant</p>
@@ -85,7 +85,7 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   </div>
 
   <div class="card">
-    <img src="/images/logos/google_logo.png" alt="Logo" class="card-logo">
+    <img src="{{ '/images/logos/google_logo.png' | relative_url }}" alt="Logo" class="card-logo">
     <div class="card-content">
       <p><strong>Google LLC</strong></p>
       <p>Student Researcher</p>
@@ -94,7 +94,7 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   </div>
 
   <div class="card">
-    <img src="/images/logos/kaust_logo.png" alt="Logo" class="card-logo">
+    <img src="{{ '/images/logos/kaust_logo.png' | relative_url }}" alt="Logo" class="card-logo">
     <div class="card-content">
       <p><strong>King Abdullah University of Science and Technology</strong></p>
       <p>Research Intern (Remote)</p>
@@ -103,7 +103,7 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   </div>
 
   <div class="card">
-    <img src="/images/logos/cowarobot.png" alt="Logo" class="card-logo">
+    <img src="{{ '/images/logos/cowarobot.png' | relative_url }}" alt="Logo" class="card-logo">
     <div class="card-content">
       <p><strong>Cowarobot Co., Ltd.</strong></p>
       <p>Algorithm Engineer</p>
@@ -112,7 +112,7 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   </div>
 
   <div class="card">
-    <img src="/images/logos/hust_logo.svg" alt="Logo" class="card-logo">
+    <img src="{{ '/images/logos/hust_logo.svg' | relative_url }}" alt="Logo" class="card-logo">
     <div class="card-content">
       <p><strong>Huazhong University of Science and Technology</strong></p>
       <p>Graduate Research Assistant</p>
