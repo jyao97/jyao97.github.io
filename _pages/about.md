@@ -78,9 +78,8 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   <div class="card">
     <img src="/images/logos/ucr_logo.svg" alt="Logo" class="card-logo">
     <div class="card-content">
-      <p><strong>Graduate Research Assistant</strong></p>
       <p><strong>University of California, Riverside</strong></p>
-      <p>Topics: 3D Reconstruction, Reinforcement Learning, Robotics</p>
+      <p>Graduate Research Assistant</p>
     </div>
     <div class="card-date">2024.03-Present</div>
   </div>
@@ -88,9 +87,8 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   <div class="card">
     <img src="/images/logos/google_logo.png" alt="Logo" class="card-logo">
     <div class="card-content">
-      <p><strong>Student Researcher</strong></p>
       <p><strong>Google LLC</strong></p>
-      <p>Department: Android XR</p>
+      <p>Student Researcher</p>
     </div>
     <div class="card-date">2026.06-2026.09</div>
   </div>
@@ -98,9 +96,8 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   <div class="card">
     <img src="/images/logos/kaust_logo.png" alt="Logo" class="card-logo">
     <div class="card-content">
-      <p><strong>Research Intern (Remote)</strong></p>
       <p><strong>King Abdullah University of Science and Technology</strong></p>
-      <p>Topics: Robotic Manipulation, Graph Neural Networks</p>
+      <p>Research Intern (Remote)</p>
     </div>
     <div class="card-date">2023.06-2023.09</div>
   </div>
@@ -108,9 +105,8 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   <div class="card">
     <img src="/images/logos/cowarobot.png" alt="Logo" class="card-logo">
     <div class="card-content">
-      <p><strong>Algorithm Engineer</strong></p>
       <p><strong>Cowarobot Co., Ltd.</strong></p>
-      <p>Department: Planning and Control</p>
+      <p>Algorithm Engineer</p>
     </div>
     <div class="card-date">2022.06-2023.06</div>
   </div>
@@ -118,9 +114,8 @@ Jianpeng Yao is currently a third-year Ph.D. student advised by [Prof. Hang Qiu]
   <div class="card">
     <img src="/images/logos/hust_logo.svg" alt="Logo" class="card-logo">
     <div class="card-content">
-      <p><strong>Graduate Research Assistant</strong></p>
       <p><strong>Huazhong University of Science and Technology</strong></p>
-      <p>Topics: Reinforcement Learning, Learning-based Control, Magnetic Soft Robots, Numerical Analysis</p>
+      <p>Graduate Research Assistant</p>
     </div>
     <div class="card-date">2019.09-2022.06</div>
   </div>
